@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:auto;
+    box-sizing: inherit;
+} 
+
+
+html{
+    font-size: 60%;
+}
+body{
+    font-family: "lato";
+    box-sizing: border-box;
+}
+.aside{
+    background: rgba(35, 35, 54, 0.397);
+    width:15%;
+}
+.side-bar{
+
+    margin:.9em 1.3em;
+}
+.side-bar__list{
+    font-family: inherit;
+}
+.side-bar__listing{
+    margin: 1.2em 2.8em;
+    list-style:none;
+}
+.side-bar__links{
+  
+    display: inline-block;
+    text-transform: capitalize;
+    text-decoration: none;
+    padding: 1.7em 2em;
+    font-weight: 800;
+    font-size:1.7em ;
+    }

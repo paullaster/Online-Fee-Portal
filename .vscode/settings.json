@@ -1,0 +1,10 @@
+{
+    "vscode-janus-debug.uploadOnSave": [
+        "index"
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#560C45",
+        "titleBar.activeBackground": "#781161",
+        "titleBar.activeForeground": "#FFFCFE"
+    }
+}

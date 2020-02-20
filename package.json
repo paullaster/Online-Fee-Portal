@@ -1,0 +1,21 @@
+{
+  "name": "fee-payment-system",
+  "version": "2.0.0",
+  "description": "this is an online fee payment system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "text"
+  },
+  "repository": {
+    "type": "git",
+    "url": "fee=payment-system"
+  },
+  "keywords": [
+    "c/d/l"
+  ],
+  "author": "paullaster",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
